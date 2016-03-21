@@ -5,10 +5,11 @@ package com.example.administrator.testapp;
  */
 public class Test {
     public static void main(String srg[]){
-        System.out.println("2");
+        System.out.println("1");
         new Best();
     }
 
     private static class Best {
+
     }
 }
