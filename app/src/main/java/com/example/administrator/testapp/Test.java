@@ -5,4 +5,7 @@ package com.example.administrator.testapp;
  */
 public class Test {
     //测试Git更新
+    public  static  void main(String arg[]){
+        System.out.println("添加代码");
+    }
 }
