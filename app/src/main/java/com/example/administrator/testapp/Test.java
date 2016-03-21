@@ -5,6 +5,9 @@ package com.example.administrator.testapp;
  */
 public class Test {
     public static void main(String srg[]){
-        System.out.println("2");
+        new Best();
+    }
+
+    private static class Best {
     }
 }
